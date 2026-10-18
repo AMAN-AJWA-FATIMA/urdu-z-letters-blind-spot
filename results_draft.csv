@@ -1,0 +1,49 @@
+﻿word,correct_letter,roman_urdu,model_output,letters_used,z_letter_correct,correct,script,note
+زبان,ز,zubaan,زوبان,ز,1,0,arabic,"z-letter correct, rest of spelling differs"
+زندگی,ز,zindagi,जंदगी,none,0,0,devanagari,"Devanagari script (Hindi), not Urdu"
+زمین,ز,zameen,زمین,ز,1,1,arabic,exact match
+زمانہ,ز,zamana,زمانہ,ز,1,1,arabic,exact match
+زیادہ,ز,zyada,زیادہ,ز,1,1,arabic,exact match
+زیر,ز,zer,زر,ز,1,0,arabic,"z-letter correct, rest of spelling differs"
+زبردست,ز,zabardast,زبردست,ز,1,1,arabic,exact match
+زرد,ز,zard,زرد,ز,1,1,arabic,exact match
+زخم,ز,zakhm,زکھم,ز,1,0,arabic,"z-letter correct, rest of spelling differs"
+زکام,ز,zukaam,زوکام,ز,1,0,arabic,"z-letter correct, rest of spelling differs"
+زنجیر,ز,zanjeer,زنجیر,ز,1,1,arabic,exact match
+زراعت,ز,ziraat,زیرات,ز,1,0,arabic,"z-letter correct, rest of spelling differs"
+ذرا,ذ,zara,زرا,ز,0,0,arabic,used ز instead of ذ
+ذہن,ذ,zehan,زنگ,ز,0,0,arabic,used ز instead of ذ
+ذہین,ذ,zaheen,زحین,ز,0,0,arabic,used ز instead of ذ
+ذکر,ذ,zikr,जکر,none,0,0,mixed,mixes Urdu and Devanagari letters
+ذریعہ,ذ,zariya,زریا,ز,0,0,arabic,used ز instead of ذ
+ذاتی,ذ,zaati,زاتی,ز,0,0,arabic,used ز instead of ذ
+ذائقہ,ذ,zaiqa,زیقہ,ز,0,0,arabic,used ز instead of ذ
+ذمہ,ذ,zimma,زیمہ,ز,0,0,arabic,used ز instead of ذ
+ذمہ داری,ذ,zimmedari,زیمنڈاری,ز,0,0,arabic,used ز instead of ذ
+ذخیرہ,ذ,zakheera,زکھیرا,ز,0,0,arabic,used ز instead of ذ
+ذوق,ذ,zauq,زوق,ز,0,0,arabic,used ز instead of ذ
+ذلت,ذ,zillat,زیلات,ز,0,0,arabic,used ز instead of ذ
+ضرورت,ض,zaroorat,زرورت,ز,0,0,arabic,used ز instead of ض
+ضائع,ض,zaya,زایا,ز,0,0,arabic,used ز instead of ض
+ضد,ض,zid,زیڈ,ز,0,0,arabic,used ز instead of ض
+ضعیف,ض,zaeef,زیف,ز,0,0,arabic,used ز instead of ض
+ضلع,ض,zila,زیلا,ز,0,0,arabic,used ز instead of ض
+ضمانت,ض,zamanat,زمانت,ز,0,0,arabic,used ز instead of ض
+ضمیر,ض,zameer,زمیر,ز,0,0,arabic,used ز instead of ض
+ضابطہ,ض,zaabta,زابتا,ز,0,0,arabic,used ز instead of ض
+ضیافت,ض,ziafat,ज़िफ़त,none,0,0,devanagari,"Devanagari script (Hindi), not Urdu"
+ضرب,ض,zarb,زرب,ز,0,0,arabic,used ز instead of ض
+ضمان,ض,zamaan,زامان,ز,0,0,arabic,used ز instead of ض
+ضدّی,ض,ziddi,زیڈی,ز,0,0,arabic,used ز instead of ض
+ظاہر,ظ,zaahir,زاهیر,ز,0,0,arabic,used ز instead of ظ
+ظاہری,ظ,zaahiri,زاهری,ز,0,0,arabic,used ز instead of ظ
+ظلم,ظ,zulm,زولم,ز,0,0,arabic,used ز instead of ظ
+ظالم,ظ,zaalim,زاگیل,ز,0,0,arabic,used ز instead of ظ
+ظالمی,ظ,zaalimi,زالیمی,ز,0,0,arabic,used ز instead of ظ
+ظرف,ظ,zarf,زرف,ز,0,0,arabic,used ز instead of ظ
+ظریف,ظ,zareef,زریف,ز,0,0,arabic,used ز instead of ظ
+ظہور,ظ,zuhoor,زوहور,ز,0,0,mixed,mixes Urdu and Devanagari letters
+ظن,ظ,zann,زن,ز,0,0,arabic,used ز instead of ظ
+ظلمات,ظ,zulmaat,زولمہت,ز,0,0,arabic,used ز instead of ظ
+ظلمت,ظ,zulmat,زولمت,ز,0,0,arabic,used ز instead of ظ
+ظاہرًا,ظ,zaahiran,زاهیران,ز,0,0,arabic,used ز instead of ظ
